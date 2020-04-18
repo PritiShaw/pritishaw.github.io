@@ -18,7 +18,7 @@ class Footer extends Component {
               {networks}
            </ul>
            <ul className="copyright">
-              <li>&copy; Copyright 2019 Built using React</li>
+              <li>&copy; Copyright 2020 Built using React</li>
            </ul>
 
         </div>
