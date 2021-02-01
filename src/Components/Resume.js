@@ -29,9 +29,9 @@ class Resume extends Component {
           {work}
         </div>
     </div>
-    <div className="row skill" id="skill">
+    <div className="row skill" id="skill" style={{paddingTop:"5em"}}>
 
-         <div className="three columns header-col" style={{marginTop:"5em"}}>
+         <div className="three columns header-col">
             <h1><span>Skills</span></h1>
          </div>
 
